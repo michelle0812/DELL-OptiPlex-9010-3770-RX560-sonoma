@@ -18,4 +18,5 @@
     <td>系統</td><td>macOS Sonoma 14 + OpenCore 0.9.5</td>
   </tr>  
 </table>
-![384277375_7384493501565870_1846225989992475027_n](https://github.com/michelle0812/DELL-OptiPlex-9010-3770-RX560-sonoma/assets/79300809/d55eef63-51c2-4fd7-b9da-9193f7091ff1)
+
+![384277375_7384493501565870_1846225989992475027_n](https://github.com/michelle0812/DELL-OptiPlex-9010-3770-RX560-sonoma/assets/79300809/558708f2-c0f1-4da1-96ec-42baaa9c8425)
