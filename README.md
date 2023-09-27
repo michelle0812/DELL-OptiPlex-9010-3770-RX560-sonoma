@@ -12,9 +12,9 @@
     <td>dGPU</td><td>技嘉 RX 560 4GB</td>
   </tr>
   <tr>  
-    <td>固態硬碟</td><td>SanDisk SDSSDA240G</td>
+    <td>固態硬碟</td><td>美光 MX500 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Monterey 13.3.1 + OpenCore 0.9.2</td>
+    <td>系統</td><td>macOS Sonoma 14 + OpenCore 0.9.2</td>
   </tr>  
 </table>
