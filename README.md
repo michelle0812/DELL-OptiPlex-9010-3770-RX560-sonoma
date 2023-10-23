@@ -15,7 +15,7 @@
     <td>固態硬碟</td><td>美光 MX500 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Sonoma 14 + OpenCore 0.9.5</td>
+    <td>系統</td><td>macOS Sonoma 14 + OpenCore 0.9.6</td>
   </tr>  
 </table>
 
