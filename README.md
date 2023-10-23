@@ -19,4 +19,4 @@
   </tr>  
 </table>
 
-![384277375_7384493501565870_1846225989992475027_n](https://github.com/michelle0812/DELL-OptiPlex-9010-3770-RX560-sonoma/assets/79300809/558708f2-c0f1-4da1-96ec-42baaa9c8425)
+![Dell_OptiPlex_9010_MT](https://github.com/michelle0812/DELL-OptiPlex-9010-3770-RX560-sonoma/assets/79300809/cec467b2-34ca-4440-9a91-2cb898dc7389)
